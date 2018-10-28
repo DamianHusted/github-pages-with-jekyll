@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is a blog created for the purpose of learning github basics through github learning.
+# Open source is pretty amazing #
